@@ -16,7 +16,7 @@ Do the following commands:
 * Set up virtual env `python3 -m venv .venv`
 * Download dependencies `pip instlal -r requirements.txt`
 
-Now create an .env file and copy the .copyme.env format then me for the corresponding values of these tokens
+Now create an .env file and copy the .copyme.env format then ask me for the corresponding values of these tokens
 
 ### Upcoming features
 
