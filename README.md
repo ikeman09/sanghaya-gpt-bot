@@ -44,3 +44,7 @@ drafting pull
 requests.
 
 PS: Incase that we scale and we no longer can support the usage, please send monetary support in GCASH: 09664618065
+
+PPS: As of now **bot is not live 24/7** please do tell me if you need the bot so that I can enable it from my local
+machine.
+I plan to migrate this to my raspberry pi so that I can run it 24/7.
