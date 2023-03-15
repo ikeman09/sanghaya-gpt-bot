@@ -14,4 +14,5 @@ All branches must have the prefix `feature/*` or `fix/*` for those who would wan
 ## Usage
 
 Use the `!sgpt` prefix in discord and type away your prompt
-![An example][assets/example.png]
+
+![An example](assets/example.png)
